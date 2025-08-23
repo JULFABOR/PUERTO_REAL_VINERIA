@@ -1,0 +1,11 @@
+# Ignorar entorno virtual
+PUERTO_REAL_VINERIA/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración de VSCode
+.vscode/
